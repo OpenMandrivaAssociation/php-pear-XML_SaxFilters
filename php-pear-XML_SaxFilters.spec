@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3.0
-Release:	15
+Release:	16
 Summary:	A framework for building XML filters using the SAX API
 License:	PHP License
 Group:		Development/PHP
